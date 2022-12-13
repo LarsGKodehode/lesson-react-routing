@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lesson-react-routing/static/css/main.67864250.css",
-    "main.js": "/lesson-react-routing/static/js/main.91f9ec05.js",
+    "main.js": "/lesson-react-routing/static/js/main.ed940846.js",
     "static/js/787.03497e6e.chunk.js": "/lesson-react-routing/static/js/787.03497e6e.chunk.js",
     "index.html": "/lesson-react-routing/index.html",
     "main.67864250.css.map": "/lesson-react-routing/static/css/main.67864250.css.map",
-    "main.91f9ec05.js.map": "/lesson-react-routing/static/js/main.91f9ec05.js.map",
+    "main.ed940846.js.map": "/lesson-react-routing/static/js/main.ed940846.js.map",
     "787.03497e6e.chunk.js.map": "/lesson-react-routing/static/js/787.03497e6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67864250.css",
-    "static/js/main.91f9ec05.js"
+    "static/js/main.ed940846.js"
   ]
 }
